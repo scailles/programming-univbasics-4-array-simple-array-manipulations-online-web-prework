@@ -1,2 +1,3 @@
 colors=["red","yellow","blue"]
-colors.push("brown")
+new_color="brown"
+colors.push(new_color)
